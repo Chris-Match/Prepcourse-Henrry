@@ -1,2 +1,2 @@
-# Prepcourse-Henrry
-Este es un repositorio de prueba del modulo2 del prepcourse de Henrry
+Christopher Estrada
+Este repositorio es una prueba para subir un repositorio a github
